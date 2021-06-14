@@ -1,0 +1,2 @@
+export const GET_RANDOM_USER = 'GET_RANDOM_USER';
+export const APP_LAYOUT_ERROR = 'APP_LAYOUT_ERROR';
